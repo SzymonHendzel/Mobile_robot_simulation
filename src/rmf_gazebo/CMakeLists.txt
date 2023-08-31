@@ -9,6 +9,7 @@ find_package(gazebo_ros REQUIRED)
 install(DIRECTORY
   rmf_config
   models
+  maps
   launch
   DESTINATION share/${PROJECT_NAME}
 )
