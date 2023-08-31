@@ -1,0 +1,21 @@
+<?xml version='1.0' ?>
+
+<launch>
+  <arg name="use_sim_time" default="false"/>
+
+  <!-- Common launch -->
+  <include file="$(find-pkg-share rmf_gazebo)/launch/common.launch.xml">
+    <arg name="use_sim_time" value="$(var use_sim_time)"/>
+    <arg name="config_file" value="$(find-pkg-share rmf_gazebo)/rmf_config/Wariant2_1.building.yaml"/>
+  </include>
+
+  <!-- TinyRobot fleet adapter -->
+  <group>
+    <include file="$(find-pkg-share rmf_fleet_adapter_moj)/launch/fleet_adapter.launch.xml">
+      <arg name="use_sim_time" value="$(var use_sim_time)"/>
+      <arg name="nav_graph_file" value="$(find-pkg-share rmf_gazebo)/maps/Wariant2_1/nav_graphs/0.yaml" />
+      <arg name="config_file" value="$(find-pkg-share rmf_gazebo)/rmf_config/Wariant2_1/tinyRobot_config.yaml"/>
+    </include>
+  </group>
+
+</launch>

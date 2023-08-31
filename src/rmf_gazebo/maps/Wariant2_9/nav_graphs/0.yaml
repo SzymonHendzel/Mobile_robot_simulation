@@ -1,0 +1,3278 @@
+building_name: Wariant1
+levels:
+  L1:
+    lanes:
+    - - 0
+      - 1
+      - {speed_limit: 0}
+    - - 1
+      - 0
+      - {speed_limit: 0}
+    - - 0
+      - 2
+      - {speed_limit: 0}
+    - - 2
+      - 0
+      - {speed_limit: 0}
+    - - 1
+      - 3
+      - {speed_limit: 0}
+    - - 3
+      - 1
+      - {speed_limit: 0}
+    - - 1
+      - 4
+      - {speed_limit: 0}
+    - - 4
+      - 1
+      - {speed_limit: 0}
+    - - 3
+      - 5
+      - {speed_limit: 0}
+    - - 5
+      - 3
+      - {speed_limit: 0}
+    - - 3
+      - 6
+      - {speed_limit: 0}
+    - - 6
+      - 3
+      - {speed_limit: 0}
+    - - 5
+      - 7
+      - {speed_limit: 0}
+    - - 7
+      - 5
+      - {speed_limit: 0}
+    - - 5
+      - 8
+      - {speed_limit: 0}
+    - - 8
+      - 5
+      - {speed_limit: 0}
+    - - 7
+      - 9
+      - {speed_limit: 0}
+    - - 9
+      - 7
+      - {speed_limit: 0}
+    - - 7
+      - 10
+      - {speed_limit: 0}
+    - - 10
+      - 7
+      - {speed_limit: 0}
+    - - 9
+      - 11
+      - {speed_limit: 0}
+    - - 11
+      - 9
+      - {speed_limit: 0}
+    - - 9
+      - 12
+      - {speed_limit: 0}
+    - - 12
+      - 9
+      - {speed_limit: 0}
+    - - 11
+      - 13
+      - {speed_limit: 0}
+    - - 13
+      - 11
+      - {speed_limit: 0}
+    - - 11
+      - 14
+      - {speed_limit: 0}
+    - - 14
+      - 11
+      - {speed_limit: 0}
+    - - 13
+      - 15
+      - {speed_limit: 0}
+    - - 15
+      - 13
+      - {speed_limit: 0}
+    - - 13
+      - 16
+      - {speed_limit: 0}
+    - - 16
+      - 13
+      - {speed_limit: 0}
+    - - 15
+      - 17
+      - {speed_limit: 0}
+    - - 17
+      - 15
+      - {speed_limit: 0}
+    - - 15
+      - 18
+      - {speed_limit: 0}
+    - - 18
+      - 15
+      - {speed_limit: 0}
+    - - 17
+      - 19
+      - {speed_limit: 0}
+    - - 19
+      - 17
+      - {speed_limit: 0}
+    - - 17
+      - 20
+      - {speed_limit: 0}
+    - - 20
+      - 17
+      - {speed_limit: 0}
+    - - 19
+      - 21
+      - {speed_limit: 0}
+    - - 21
+      - 19
+      - {speed_limit: 0}
+    - - 19
+      - 22
+      - {speed_limit: 0}
+    - - 22
+      - 19
+      - {speed_limit: 0}
+    - - 21
+      - 23
+      - {speed_limit: 0}
+    - - 23
+      - 21
+      - {speed_limit: 0}
+    - - 21
+      - 24
+      - {speed_limit: 0}
+    - - 24
+      - 21
+      - {speed_limit: 0}
+    - - 23
+      - 25
+      - {speed_limit: 0}
+    - - 25
+      - 23
+      - {speed_limit: 0}
+    - - 23
+      - 26
+      - {speed_limit: 0}
+    - - 26
+      - 23
+      - {speed_limit: 0}
+    - - 25
+      - 27
+      - {speed_limit: 0}
+    - - 27
+      - 25
+      - {speed_limit: 0}
+    - - 25
+      - 28
+      - {speed_limit: 0}
+    - - 28
+      - 25
+      - {speed_limit: 0}
+    - - 27
+      - 29
+      - {speed_limit: 0}
+    - - 29
+      - 27
+      - {speed_limit: 0}
+    - - 2
+      - 4
+      - {speed_limit: 0}
+    - - 4
+      - 2
+      - {speed_limit: 0}
+    - - 2
+      - 30
+      - {speed_limit: 0}
+    - - 30
+      - 2
+      - {speed_limit: 0}
+    - - 4
+      - 6
+      - {speed_limit: 0}
+    - - 6
+      - 4
+      - {speed_limit: 0}
+    - - 4
+      - 31
+      - {speed_limit: 0}
+    - - 31
+      - 4
+      - {speed_limit: 0}
+    - - 6
+      - 8
+      - {speed_limit: 0}
+    - - 8
+      - 6
+      - {speed_limit: 0}
+    - - 6
+      - 32
+      - {speed_limit: 0}
+    - - 32
+      - 6
+      - {speed_limit: 0}
+    - - 8
+      - 10
+      - {speed_limit: 0}
+    - - 10
+      - 8
+      - {speed_limit: 0}
+    - - 8
+      - 33
+      - {speed_limit: 0}
+    - - 33
+      - 8
+      - {speed_limit: 0}
+    - - 10
+      - 12
+      - {speed_limit: 0}
+    - - 12
+      - 10
+      - {speed_limit: 0}
+    - - 10
+      - 34
+      - {speed_limit: 0}
+    - - 34
+      - 10
+      - {speed_limit: 0}
+    - - 12
+      - 14
+      - {speed_limit: 0}
+    - - 14
+      - 12
+      - {speed_limit: 0}
+    - - 12
+      - 35
+      - {speed_limit: 0}
+    - - 35
+      - 12
+      - {speed_limit: 0}
+    - - 14
+      - 16
+      - {speed_limit: 0}
+    - - 16
+      - 14
+      - {speed_limit: 0}
+    - - 14
+      - 36
+      - {speed_limit: 0}
+    - - 36
+      - 14
+      - {speed_limit: 0}
+    - - 16
+      - 18
+      - {speed_limit: 0}
+    - - 18
+      - 16
+      - {speed_limit: 0}
+    - - 16
+      - 37
+      - {speed_limit: 0}
+    - - 37
+      - 16
+      - {speed_limit: 0}
+    - - 18
+      - 20
+      - {speed_limit: 0}
+    - - 20
+      - 18
+      - {speed_limit: 0}
+    - - 18
+      - 38
+      - {speed_limit: 0}
+    - - 38
+      - 18
+      - {speed_limit: 0}
+    - - 20
+      - 22
+      - {speed_limit: 0}
+    - - 22
+      - 20
+      - {speed_limit: 0}
+    - - 20
+      - 39
+      - {speed_limit: 0}
+    - - 39
+      - 20
+      - {speed_limit: 0}
+    - - 22
+      - 24
+      - {speed_limit: 0}
+    - - 24
+      - 22
+      - {speed_limit: 0}
+    - - 22
+      - 40
+      - {speed_limit: 0}
+    - - 40
+      - 22
+      - {speed_limit: 0}
+    - - 24
+      - 26
+      - {speed_limit: 0}
+    - - 26
+      - 24
+      - {speed_limit: 0}
+    - - 24
+      - 41
+      - {speed_limit: 0}
+    - - 41
+      - 24
+      - {speed_limit: 0}
+    - - 26
+      - 28
+      - {speed_limit: 0}
+    - - 28
+      - 26
+      - {speed_limit: 0}
+    - - 26
+      - 42
+      - {speed_limit: 0}
+    - - 42
+      - 26
+      - {speed_limit: 0}
+    - - 28
+      - 29
+      - {speed_limit: 0}
+    - - 29
+      - 28
+      - {speed_limit: 0}
+    - - 28
+      - 43
+      - {speed_limit: 0}
+    - - 43
+      - 28
+      - {speed_limit: 0}
+    - - 29
+      - 44
+      - {speed_limit: 0}
+    - - 44
+      - 29
+      - {speed_limit: 0}
+    - - 30
+      - 31
+      - {speed_limit: 0}
+    - - 31
+      - 30
+      - {speed_limit: 0}
+    - - 30
+      - 45
+      - {speed_limit: 0}
+    - - 45
+      - 30
+      - {speed_limit: 0}
+    - - 31
+      - 32
+      - {speed_limit: 0}
+    - - 32
+      - 31
+      - {speed_limit: 0}
+    - - 31
+      - 46
+      - {speed_limit: 0}
+    - - 46
+      - 31
+      - {speed_limit: 0}
+    - - 32
+      - 33
+      - {speed_limit: 0}
+    - - 33
+      - 32
+      - {speed_limit: 0}
+    - - 32
+      - 47
+      - {speed_limit: 0}
+    - - 47
+      - 32
+      - {speed_limit: 0}
+    - - 33
+      - 34
+      - {speed_limit: 0}
+    - - 34
+      - 33
+      - {speed_limit: 0}
+    - - 33
+      - 48
+      - {speed_limit: 0}
+    - - 48
+      - 33
+      - {speed_limit: 0}
+    - - 34
+      - 35
+      - {speed_limit: 0}
+    - - 35
+      - 34
+      - {speed_limit: 0}
+    - - 34
+      - 49
+      - {speed_limit: 0}
+    - - 49
+      - 34
+      - {speed_limit: 0}
+    - - 35
+      - 36
+      - {speed_limit: 0}
+    - - 36
+      - 35
+      - {speed_limit: 0}
+    - - 35
+      - 50
+      - {speed_limit: 0}
+    - - 50
+      - 35
+      - {speed_limit: 0}
+    - - 36
+      - 37
+      - {speed_limit: 0}
+    - - 37
+      - 36
+      - {speed_limit: 0}
+    - - 36
+      - 51
+      - {speed_limit: 0}
+    - - 51
+      - 36
+      - {speed_limit: 0}
+    - - 37
+      - 38
+      - {speed_limit: 0}
+    - - 38
+      - 37
+      - {speed_limit: 0}
+    - - 37
+      - 52
+      - {speed_limit: 0}
+    - - 52
+      - 37
+      - {speed_limit: 0}
+    - - 38
+      - 39
+      - {speed_limit: 0}
+    - - 39
+      - 38
+      - {speed_limit: 0}
+    - - 38
+      - 53
+      - {speed_limit: 0}
+    - - 53
+      - 38
+      - {speed_limit: 0}
+    - - 39
+      - 40
+      - {speed_limit: 0}
+    - - 40
+      - 39
+      - {speed_limit: 0}
+    - - 39
+      - 54
+      - {speed_limit: 0}
+    - - 54
+      - 39
+      - {speed_limit: 0}
+    - - 40
+      - 41
+      - {speed_limit: 0}
+    - - 41
+      - 40
+      - {speed_limit: 0}
+    - - 40
+      - 55
+      - {speed_limit: 0}
+    - - 55
+      - 40
+      - {speed_limit: 0}
+    - - 41
+      - 42
+      - {speed_limit: 0}
+    - - 42
+      - 41
+      - {speed_limit: 0}
+    - - 41
+      - 56
+      - {speed_limit: 0}
+    - - 56
+      - 41
+      - {speed_limit: 0}
+    - - 42
+      - 43
+      - {speed_limit: 0}
+    - - 43
+      - 42
+      - {speed_limit: 0}
+    - - 42
+      - 57
+      - {speed_limit: 0}
+    - - 57
+      - 42
+      - {speed_limit: 0}
+    - - 43
+      - 44
+      - {speed_limit: 0}
+    - - 44
+      - 43
+      - {speed_limit: 0}
+    - - 43
+      - 58
+      - {speed_limit: 0}
+    - - 58
+      - 43
+      - {speed_limit: 0}
+    - - 44
+      - 59
+      - {speed_limit: 0}
+    - - 59
+      - 44
+      - {speed_limit: 0}
+    - - 45
+      - 46
+      - {speed_limit: 0}
+    - - 46
+      - 45
+      - {speed_limit: 0}
+    - - 45
+      - 60
+      - {speed_limit: 0}
+    - - 60
+      - 45
+      - {speed_limit: 0}
+    - - 46
+      - 47
+      - {speed_limit: 0}
+    - - 47
+      - 46
+      - {speed_limit: 0}
+    - - 46
+      - 61
+      - {speed_limit: 0}
+    - - 61
+      - 46
+      - {speed_limit: 0}
+    - - 47
+      - 48
+      - {speed_limit: 0}
+    - - 48
+      - 47
+      - {speed_limit: 0}
+    - - 47
+      - 62
+      - {speed_limit: 0}
+    - - 62
+      - 47
+      - {speed_limit: 0}
+    - - 48
+      - 49
+      - {speed_limit: 0}
+    - - 49
+      - 48
+      - {speed_limit: 0}
+    - - 48
+      - 63
+      - {speed_limit: 0}
+    - - 63
+      - 48
+      - {speed_limit: 0}
+    - - 49
+      - 50
+      - {speed_limit: 0}
+    - - 50
+      - 49
+      - {speed_limit: 0}
+    - - 49
+      - 64
+      - {speed_limit: 0}
+    - - 64
+      - 49
+      - {speed_limit: 0}
+    - - 50
+      - 51
+      - {speed_limit: 0}
+    - - 51
+      - 50
+      - {speed_limit: 0}
+    - - 50
+      - 65
+      - {speed_limit: 0}
+    - - 65
+      - 50
+      - {speed_limit: 0}
+    - - 51
+      - 52
+      - {speed_limit: 0}
+    - - 52
+      - 51
+      - {speed_limit: 0}
+    - - 51
+      - 66
+      - {speed_limit: 0}
+    - - 66
+      - 51
+      - {speed_limit: 0}
+    - - 52
+      - 53
+      - {speed_limit: 0}
+    - - 53
+      - 52
+      - {speed_limit: 0}
+    - - 52
+      - 67
+      - {speed_limit: 0}
+    - - 67
+      - 52
+      - {speed_limit: 0}
+    - - 53
+      - 54
+      - {speed_limit: 0}
+    - - 54
+      - 53
+      - {speed_limit: 0}
+    - - 53
+      - 68
+      - {speed_limit: 0}
+    - - 68
+      - 53
+      - {speed_limit: 0}
+    - - 54
+      - 55
+      - {speed_limit: 0}
+    - - 55
+      - 54
+      - {speed_limit: 0}
+    - - 54
+      - 69
+      - {speed_limit: 0}
+    - - 69
+      - 54
+      - {speed_limit: 0}
+    - - 55
+      - 56
+      - {speed_limit: 0}
+    - - 56
+      - 55
+      - {speed_limit: 0}
+    - - 55
+      - 70
+      - {speed_limit: 0}
+    - - 70
+      - 55
+      - {speed_limit: 0}
+    - - 56
+      - 57
+      - {speed_limit: 0}
+    - - 57
+      - 56
+      - {speed_limit: 0}
+    - - 56
+      - 71
+      - {speed_limit: 0}
+    - - 71
+      - 56
+      - {speed_limit: 0}
+    - - 57
+      - 58
+      - {speed_limit: 0}
+    - - 58
+      - 57
+      - {speed_limit: 0}
+    - - 57
+      - 72
+      - {speed_limit: 0}
+    - - 72
+      - 57
+      - {speed_limit: 0}
+    - - 58
+      - 59
+      - {speed_limit: 0}
+    - - 59
+      - 58
+      - {speed_limit: 0}
+    - - 58
+      - 73
+      - {speed_limit: 0}
+    - - 73
+      - 58
+      - {speed_limit: 0}
+    - - 59
+      - 74
+      - {speed_limit: 0}
+    - - 74
+      - 59
+      - {speed_limit: 0}
+    - - 60
+      - 61
+      - {speed_limit: 0}
+    - - 61
+      - 60
+      - {speed_limit: 0}
+    - - 60
+      - 75
+      - {speed_limit: 0}
+    - - 75
+      - 60
+      - {speed_limit: 0}
+    - - 61
+      - 62
+      - {speed_limit: 0}
+    - - 62
+      - 61
+      - {speed_limit: 0}
+    - - 61
+      - 76
+      - {speed_limit: 0}
+    - - 76
+      - 61
+      - {speed_limit: 0}
+    - - 62
+      - 63
+      - {speed_limit: 0}
+    - - 63
+      - 62
+      - {speed_limit: 0}
+    - - 62
+      - 77
+      - {speed_limit: 0}
+    - - 77
+      - 62
+      - {speed_limit: 0}
+    - - 63
+      - 64
+      - {speed_limit: 0}
+    - - 64
+      - 63
+      - {speed_limit: 0}
+    - - 63
+      - 78
+      - {speed_limit: 0}
+    - - 78
+      - 63
+      - {speed_limit: 0}
+    - - 64
+      - 65
+      - {speed_limit: 0}
+    - - 65
+      - 64
+      - {speed_limit: 0}
+    - - 64
+      - 79
+      - {speed_limit: 0}
+    - - 79
+      - 64
+      - {speed_limit: 0}
+    - - 65
+      - 66
+      - {speed_limit: 0}
+    - - 66
+      - 65
+      - {speed_limit: 0}
+    - - 65
+      - 80
+      - {speed_limit: 0}
+    - - 80
+      - 65
+      - {speed_limit: 0}
+    - - 66
+      - 67
+      - {speed_limit: 0}
+    - - 67
+      - 66
+      - {speed_limit: 0}
+    - - 66
+      - 81
+      - {speed_limit: 0}
+    - - 81
+      - 66
+      - {speed_limit: 0}
+    - - 67
+      - 68
+      - {speed_limit: 0}
+    - - 68
+      - 67
+      - {speed_limit: 0}
+    - - 67
+      - 82
+      - {speed_limit: 0}
+    - - 82
+      - 67
+      - {speed_limit: 0}
+    - - 68
+      - 69
+      - {speed_limit: 0}
+    - - 69
+      - 68
+      - {speed_limit: 0}
+    - - 68
+      - 83
+      - {speed_limit: 0}
+    - - 83
+      - 68
+      - {speed_limit: 0}
+    - - 69
+      - 70
+      - {speed_limit: 0}
+    - - 70
+      - 69
+      - {speed_limit: 0}
+    - - 69
+      - 84
+      - {speed_limit: 0}
+    - - 84
+      - 69
+      - {speed_limit: 0}
+    - - 70
+      - 71
+      - {speed_limit: 0}
+    - - 71
+      - 70
+      - {speed_limit: 0}
+    - - 70
+      - 85
+      - {speed_limit: 0}
+    - - 85
+      - 70
+      - {speed_limit: 0}
+    - - 71
+      - 72
+      - {speed_limit: 0}
+    - - 72
+      - 71
+      - {speed_limit: 0}
+    - - 71
+      - 86
+      - {speed_limit: 0}
+    - - 86
+      - 71
+      - {speed_limit: 0}
+    - - 72
+      - 73
+      - {speed_limit: 0}
+    - - 73
+      - 72
+      - {speed_limit: 0}
+    - - 72
+      - 87
+      - {speed_limit: 0}
+    - - 87
+      - 72
+      - {speed_limit: 0}
+    - - 73
+      - 74
+      - {speed_limit: 0}
+    - - 74
+      - 73
+      - {speed_limit: 0}
+    - - 73
+      - 88
+      - {speed_limit: 0}
+    - - 88
+      - 73
+      - {speed_limit: 0}
+    - - 74
+      - 89
+      - {speed_limit: 0}
+    - - 89
+      - 74
+      - {speed_limit: 0}
+    - - 75
+      - 76
+      - {speed_limit: 0}
+    - - 76
+      - 75
+      - {speed_limit: 0}
+    - - 75
+      - 90
+      - {speed_limit: 0}
+    - - 90
+      - 75
+      - {speed_limit: 0}
+    - - 76
+      - 77
+      - {speed_limit: 0}
+    - - 77
+      - 76
+      - {speed_limit: 0}
+    - - 76
+      - 91
+      - {speed_limit: 0}
+    - - 91
+      - 76
+      - {speed_limit: 0}
+    - - 77
+      - 78
+      - {speed_limit: 0}
+    - - 78
+      - 77
+      - {speed_limit: 0}
+    - - 77
+      - 92
+      - {speed_limit: 0}
+    - - 92
+      - 77
+      - {speed_limit: 0}
+    - - 78
+      - 79
+      - {speed_limit: 0}
+    - - 79
+      - 78
+      - {speed_limit: 0}
+    - - 78
+      - 93
+      - {speed_limit: 0}
+    - - 93
+      - 78
+      - {speed_limit: 0}
+    - - 79
+      - 80
+      - {speed_limit: 0}
+    - - 80
+      - 79
+      - {speed_limit: 0}
+    - - 79
+      - 94
+      - {speed_limit: 0}
+    - - 94
+      - 79
+      - {speed_limit: 0}
+    - - 80
+      - 81
+      - {speed_limit: 0}
+    - - 81
+      - 80
+      - {speed_limit: 0}
+    - - 80
+      - 95
+      - {speed_limit: 0}
+    - - 95
+      - 80
+      - {speed_limit: 0}
+    - - 81
+      - 82
+      - {speed_limit: 0}
+    - - 82
+      - 81
+      - {speed_limit: 0}
+    - - 81
+      - 96
+      - {speed_limit: 0}
+    - - 96
+      - 81
+      - {speed_limit: 0}
+    - - 82
+      - 83
+      - {speed_limit: 0}
+    - - 83
+      - 82
+      - {speed_limit: 0}
+    - - 82
+      - 97
+      - {speed_limit: 0}
+    - - 97
+      - 82
+      - {speed_limit: 0}
+    - - 83
+      - 84
+      - {speed_limit: 0}
+    - - 84
+      - 83
+      - {speed_limit: 0}
+    - - 83
+      - 98
+      - {speed_limit: 0}
+    - - 98
+      - 83
+      - {speed_limit: 0}
+    - - 84
+      - 85
+      - {speed_limit: 0}
+    - - 85
+      - 84
+      - {speed_limit: 0}
+    - - 84
+      - 99
+      - {speed_limit: 0}
+    - - 99
+      - 84
+      - {speed_limit: 0}
+    - - 85
+      - 86
+      - {speed_limit: 0}
+    - - 86
+      - 85
+      - {speed_limit: 0}
+    - - 85
+      - 100
+      - {speed_limit: 0}
+    - - 100
+      - 85
+      - {speed_limit: 0}
+    - - 86
+      - 87
+      - {speed_limit: 0}
+    - - 87
+      - 86
+      - {speed_limit: 0}
+    - - 86
+      - 101
+      - {speed_limit: 0}
+    - - 101
+      - 86
+      - {speed_limit: 0}
+    - - 87
+      - 88
+      - {speed_limit: 0}
+    - - 88
+      - 87
+      - {speed_limit: 0}
+    - - 87
+      - 102
+      - {speed_limit: 0}
+    - - 102
+      - 87
+      - {speed_limit: 0}
+    - - 88
+      - 89
+      - {speed_limit: 0}
+    - - 89
+      - 88
+      - {speed_limit: 0}
+    - - 88
+      - 103
+      - {speed_limit: 0}
+    - - 103
+      - 88
+      - {speed_limit: 0}
+    - - 89
+      - 104
+      - {speed_limit: 0}
+    - - 104
+      - 89
+      - {speed_limit: 0}
+    - - 90
+      - 91
+      - {speed_limit: 0}
+    - - 91
+      - 90
+      - {speed_limit: 0}
+    - - 90
+      - 105
+      - {speed_limit: 0}
+    - - 105
+      - 90
+      - {speed_limit: 0}
+    - - 91
+      - 92
+      - {speed_limit: 0}
+    - - 92
+      - 91
+      - {speed_limit: 0}
+    - - 91
+      - 106
+      - {speed_limit: 0}
+    - - 106
+      - 91
+      - {speed_limit: 0}
+    - - 92
+      - 93
+      - {speed_limit: 0}
+    - - 93
+      - 92
+      - {speed_limit: 0}
+    - - 92
+      - 107
+      - {speed_limit: 0}
+    - - 107
+      - 92
+      - {speed_limit: 0}
+    - - 93
+      - 94
+      - {speed_limit: 0}
+    - - 94
+      - 93
+      - {speed_limit: 0}
+    - - 93
+      - 108
+      - {speed_limit: 0}
+    - - 108
+      - 93
+      - {speed_limit: 0}
+    - - 94
+      - 95
+      - {speed_limit: 0}
+    - - 95
+      - 94
+      - {speed_limit: 0}
+    - - 94
+      - 109
+      - {speed_limit: 0}
+    - - 109
+      - 94
+      - {speed_limit: 0}
+    - - 95
+      - 96
+      - {speed_limit: 0}
+    - - 96
+      - 95
+      - {speed_limit: 0}
+    - - 95
+      - 110
+      - {speed_limit: 0}
+    - - 110
+      - 95
+      - {speed_limit: 0}
+    - - 96
+      - 97
+      - {speed_limit: 0}
+    - - 97
+      - 96
+      - {speed_limit: 0}
+    - - 96
+      - 111
+      - {speed_limit: 0}
+    - - 111
+      - 96
+      - {speed_limit: 0}
+    - - 97
+      - 98
+      - {speed_limit: 0}
+    - - 98
+      - 97
+      - {speed_limit: 0}
+    - - 97
+      - 112
+      - {speed_limit: 0}
+    - - 112
+      - 97
+      - {speed_limit: 0}
+    - - 98
+      - 99
+      - {speed_limit: 0}
+    - - 99
+      - 98
+      - {speed_limit: 0}
+    - - 98
+      - 113
+      - {speed_limit: 0}
+    - - 113
+      - 98
+      - {speed_limit: 0}
+    - - 99
+      - 100
+      - {speed_limit: 0}
+    - - 100
+      - 99
+      - {speed_limit: 0}
+    - - 99
+      - 114
+      - {speed_limit: 0}
+    - - 114
+      - 99
+      - {speed_limit: 0}
+    - - 100
+      - 101
+      - {speed_limit: 0}
+    - - 101
+      - 100
+      - {speed_limit: 0}
+    - - 100
+      - 115
+      - {speed_limit: 0}
+    - - 115
+      - 100
+      - {speed_limit: 0}
+    - - 101
+      - 102
+      - {speed_limit: 0}
+    - - 102
+      - 101
+      - {speed_limit: 0}
+    - - 101
+      - 116
+      - {speed_limit: 0}
+    - - 116
+      - 101
+      - {speed_limit: 0}
+    - - 102
+      - 103
+      - {speed_limit: 0}
+    - - 103
+      - 102
+      - {speed_limit: 0}
+    - - 102
+      - 117
+      - {speed_limit: 0}
+    - - 117
+      - 102
+      - {speed_limit: 0}
+    - - 103
+      - 104
+      - {speed_limit: 0}
+    - - 104
+      - 103
+      - {speed_limit: 0}
+    - - 103
+      - 118
+      - {speed_limit: 0}
+    - - 118
+      - 103
+      - {speed_limit: 0}
+    - - 104
+      - 119
+      - {speed_limit: 0}
+    - - 119
+      - 104
+      - {speed_limit: 0}
+    - - 105
+      - 106
+      - {speed_limit: 0}
+    - - 106
+      - 105
+      - {speed_limit: 0}
+    - - 105
+      - 120
+      - {speed_limit: 0}
+    - - 120
+      - 105
+      - {speed_limit: 0}
+    - - 106
+      - 107
+      - {speed_limit: 0}
+    - - 107
+      - 106
+      - {speed_limit: 0}
+    - - 106
+      - 121
+      - {speed_limit: 0}
+    - - 121
+      - 106
+      - {speed_limit: 0}
+    - - 107
+      - 108
+      - {speed_limit: 0}
+    - - 108
+      - 107
+      - {speed_limit: 0}
+    - - 107
+      - 122
+      - {speed_limit: 0}
+    - - 122
+      - 107
+      - {speed_limit: 0}
+    - - 108
+      - 109
+      - {speed_limit: 0}
+    - - 109
+      - 108
+      - {speed_limit: 0}
+    - - 108
+      - 123
+      - {speed_limit: 0}
+    - - 123
+      - 108
+      - {speed_limit: 0}
+    - - 109
+      - 110
+      - {speed_limit: 0}
+    - - 110
+      - 109
+      - {speed_limit: 0}
+    - - 109
+      - 124
+      - {speed_limit: 0}
+    - - 124
+      - 109
+      - {speed_limit: 0}
+    - - 110
+      - 111
+      - {speed_limit: 0}
+    - - 111
+      - 110
+      - {speed_limit: 0}
+    - - 110
+      - 125
+      - {speed_limit: 0}
+    - - 125
+      - 110
+      - {speed_limit: 0}
+    - - 111
+      - 112
+      - {speed_limit: 0}
+    - - 112
+      - 111
+      - {speed_limit: 0}
+    - - 111
+      - 126
+      - {speed_limit: 0}
+    - - 126
+      - 111
+      - {speed_limit: 0}
+    - - 112
+      - 113
+      - {speed_limit: 0}
+    - - 113
+      - 112
+      - {speed_limit: 0}
+    - - 112
+      - 127
+      - {speed_limit: 0}
+    - - 127
+      - 112
+      - {speed_limit: 0}
+    - - 113
+      - 114
+      - {speed_limit: 0}
+    - - 114
+      - 113
+      - {speed_limit: 0}
+    - - 113
+      - 128
+      - {speed_limit: 0}
+    - - 128
+      - 113
+      - {speed_limit: 0}
+    - - 114
+      - 115
+      - {speed_limit: 0}
+    - - 115
+      - 114
+      - {speed_limit: 0}
+    - - 114
+      - 129
+      - {speed_limit: 0}
+    - - 129
+      - 114
+      - {speed_limit: 0}
+    - - 115
+      - 116
+      - {speed_limit: 0}
+    - - 116
+      - 115
+      - {speed_limit: 0}
+    - - 115
+      - 130
+      - {speed_limit: 0}
+    - - 130
+      - 115
+      - {speed_limit: 0}
+    - - 116
+      - 117
+      - {speed_limit: 0}
+    - - 117
+      - 116
+      - {speed_limit: 0}
+    - - 116
+      - 131
+      - {speed_limit: 0}
+    - - 131
+      - 116
+      - {speed_limit: 0}
+    - - 117
+      - 118
+      - {speed_limit: 0}
+    - - 118
+      - 117
+      - {speed_limit: 0}
+    - - 117
+      - 132
+      - {speed_limit: 0}
+    - - 132
+      - 117
+      - {speed_limit: 0}
+    - - 118
+      - 119
+      - {speed_limit: 0}
+    - - 119
+      - 118
+      - {speed_limit: 0}
+    - - 118
+      - 133
+      - {speed_limit: 0}
+    - - 133
+      - 118
+      - {speed_limit: 0}
+    - - 119
+      - 134
+      - {speed_limit: 0}
+    - - 134
+      - 119
+      - {speed_limit: 0}
+    - - 120
+      - 121
+      - {speed_limit: 0}
+    - - 121
+      - 120
+      - {speed_limit: 0}
+    - - 120
+      - 135
+      - {speed_limit: 0}
+    - - 135
+      - 120
+      - {speed_limit: 0}
+    - - 121
+      - 122
+      - {speed_limit: 0}
+    - - 122
+      - 121
+      - {speed_limit: 0}
+    - - 121
+      - 136
+      - {speed_limit: 0}
+    - - 136
+      - 121
+      - {speed_limit: 0}
+    - - 122
+      - 123
+      - {speed_limit: 0}
+    - - 123
+      - 122
+      - {speed_limit: 0}
+    - - 122
+      - 137
+      - {speed_limit: 0}
+    - - 137
+      - 122
+      - {speed_limit: 0}
+    - - 123
+      - 124
+      - {speed_limit: 0}
+    - - 124
+      - 123
+      - {speed_limit: 0}
+    - - 123
+      - 138
+      - {speed_limit: 0}
+    - - 138
+      - 123
+      - {speed_limit: 0}
+    - - 124
+      - 125
+      - {speed_limit: 0}
+    - - 125
+      - 124
+      - {speed_limit: 0}
+    - - 124
+      - 139
+      - {speed_limit: 0}
+    - - 139
+      - 124
+      - {speed_limit: 0}
+    - - 125
+      - 126
+      - {speed_limit: 0}
+    - - 126
+      - 125
+      - {speed_limit: 0}
+    - - 125
+      - 140
+      - {speed_limit: 0}
+    - - 140
+      - 125
+      - {speed_limit: 0}
+    - - 126
+      - 127
+      - {speed_limit: 0}
+    - - 127
+      - 126
+      - {speed_limit: 0}
+    - - 126
+      - 141
+      - {speed_limit: 0}
+    - - 141
+      - 126
+      - {speed_limit: 0}
+    - - 127
+      - 128
+      - {speed_limit: 0}
+    - - 128
+      - 127
+      - {speed_limit: 0}
+    - - 127
+      - 142
+      - {speed_limit: 0}
+    - - 142
+      - 127
+      - {speed_limit: 0}
+    - - 128
+      - 129
+      - {speed_limit: 0}
+    - - 129
+      - 128
+      - {speed_limit: 0}
+    - - 128
+      - 143
+      - {speed_limit: 0}
+    - - 143
+      - 128
+      - {speed_limit: 0}
+    - - 129
+      - 130
+      - {speed_limit: 0}
+    - - 130
+      - 129
+      - {speed_limit: 0}
+    - - 129
+      - 144
+      - {speed_limit: 0}
+    - - 144
+      - 129
+      - {speed_limit: 0}
+    - - 130
+      - 131
+      - {speed_limit: 0}
+    - - 131
+      - 130
+      - {speed_limit: 0}
+    - - 130
+      - 145
+      - {speed_limit: 0}
+    - - 145
+      - 130
+      - {speed_limit: 0}
+    - - 131
+      - 132
+      - {speed_limit: 0}
+    - - 132
+      - 131
+      - {speed_limit: 0}
+    - - 131
+      - 146
+      - {speed_limit: 0}
+    - - 146
+      - 131
+      - {speed_limit: 0}
+    - - 132
+      - 133
+      - {speed_limit: 0}
+    - - 133
+      - 132
+      - {speed_limit: 0}
+    - - 132
+      - 147
+      - {speed_limit: 0}
+    - - 147
+      - 132
+      - {speed_limit: 0}
+    - - 133
+      - 134
+      - {speed_limit: 0}
+    - - 134
+      - 133
+      - {speed_limit: 0}
+    - - 133
+      - 148
+      - {speed_limit: 0}
+    - - 148
+      - 133
+      - {speed_limit: 0}
+    - - 134
+      - 149
+      - {speed_limit: 0}
+    - - 149
+      - 134
+      - {speed_limit: 0}
+    - - 135
+      - 136
+      - {speed_limit: 0}
+    - - 136
+      - 135
+      - {speed_limit: 0}
+    - - 135
+      - 150
+      - {speed_limit: 0}
+    - - 150
+      - 135
+      - {speed_limit: 0}
+    - - 136
+      - 137
+      - {speed_limit: 0}
+    - - 137
+      - 136
+      - {speed_limit: 0}
+    - - 136
+      - 151
+      - {speed_limit: 0}
+    - - 151
+      - 136
+      - {speed_limit: 0}
+    - - 137
+      - 138
+      - {speed_limit: 0}
+    - - 138
+      - 137
+      - {speed_limit: 0}
+    - - 137
+      - 152
+      - {speed_limit: 0}
+    - - 152
+      - 137
+      - {speed_limit: 0}
+    - - 138
+      - 139
+      - {speed_limit: 0}
+    - - 139
+      - 138
+      - {speed_limit: 0}
+    - - 138
+      - 153
+      - {speed_limit: 0}
+    - - 153
+      - 138
+      - {speed_limit: 0}
+    - - 139
+      - 140
+      - {speed_limit: 0}
+    - - 140
+      - 139
+      - {speed_limit: 0}
+    - - 139
+      - 154
+      - {speed_limit: 0}
+    - - 154
+      - 139
+      - {speed_limit: 0}
+    - - 140
+      - 141
+      - {speed_limit: 0}
+    - - 141
+      - 140
+      - {speed_limit: 0}
+    - - 140
+      - 155
+      - {speed_limit: 0}
+    - - 155
+      - 140
+      - {speed_limit: 0}
+    - - 141
+      - 142
+      - {speed_limit: 0}
+    - - 142
+      - 141
+      - {speed_limit: 0}
+    - - 141
+      - 156
+      - {speed_limit: 0}
+    - - 156
+      - 141
+      - {speed_limit: 0}
+    - - 142
+      - 143
+      - {speed_limit: 0}
+    - - 143
+      - 142
+      - {speed_limit: 0}
+    - - 142
+      - 157
+      - {speed_limit: 0}
+    - - 157
+      - 142
+      - {speed_limit: 0}
+    - - 143
+      - 144
+      - {speed_limit: 0}
+    - - 144
+      - 143
+      - {speed_limit: 0}
+    - - 143
+      - 158
+      - {speed_limit: 0}
+    - - 158
+      - 143
+      - {speed_limit: 0}
+    - - 144
+      - 145
+      - {speed_limit: 0}
+    - - 145
+      - 144
+      - {speed_limit: 0}
+    - - 144
+      - 159
+      - {speed_limit: 0}
+    - - 159
+      - 144
+      - {speed_limit: 0}
+    - - 145
+      - 146
+      - {speed_limit: 0}
+    - - 146
+      - 145
+      - {speed_limit: 0}
+    - - 145
+      - 160
+      - {speed_limit: 0}
+    - - 160
+      - 145
+      - {speed_limit: 0}
+    - - 146
+      - 147
+      - {speed_limit: 0}
+    - - 147
+      - 146
+      - {speed_limit: 0}
+    - - 146
+      - 161
+      - {speed_limit: 0}
+    - - 161
+      - 146
+      - {speed_limit: 0}
+    - - 147
+      - 148
+      - {speed_limit: 0}
+    - - 148
+      - 147
+      - {speed_limit: 0}
+    - - 147
+      - 162
+      - {speed_limit: 0}
+    - - 162
+      - 147
+      - {speed_limit: 0}
+    - - 148
+      - 149
+      - {speed_limit: 0}
+    - - 149
+      - 148
+      - {speed_limit: 0}
+    - - 148
+      - 163
+      - {speed_limit: 0}
+    - - 163
+      - 148
+      - {speed_limit: 0}
+    - - 149
+      - 164
+      - {speed_limit: 0}
+    - - 164
+      - 149
+      - {speed_limit: 0}
+    - - 150
+      - 151
+      - {speed_limit: 0}
+    - - 151
+      - 150
+      - {speed_limit: 0}
+    - - 150
+      - 165
+      - {speed_limit: 0}
+    - - 165
+      - 150
+      - {speed_limit: 0}
+    - - 151
+      - 152
+      - {speed_limit: 0}
+    - - 152
+      - 151
+      - {speed_limit: 0}
+    - - 151
+      - 166
+      - {speed_limit: 0}
+    - - 166
+      - 151
+      - {speed_limit: 0}
+    - - 152
+      - 153
+      - {speed_limit: 0}
+    - - 153
+      - 152
+      - {speed_limit: 0}
+    - - 152
+      - 167
+      - {speed_limit: 0}
+    - - 167
+      - 152
+      - {speed_limit: 0}
+    - - 153
+      - 154
+      - {speed_limit: 0}
+    - - 154
+      - 153
+      - {speed_limit: 0}
+    - - 153
+      - 168
+      - {speed_limit: 0}
+    - - 168
+      - 153
+      - {speed_limit: 0}
+    - - 154
+      - 155
+      - {speed_limit: 0}
+    - - 155
+      - 154
+      - {speed_limit: 0}
+    - - 154
+      - 169
+      - {speed_limit: 0}
+    - - 169
+      - 154
+      - {speed_limit: 0}
+    - - 155
+      - 156
+      - {speed_limit: 0}
+    - - 156
+      - 155
+      - {speed_limit: 0}
+    - - 155
+      - 170
+      - {speed_limit: 0}
+    - - 170
+      - 155
+      - {speed_limit: 0}
+    - - 156
+      - 157
+      - {speed_limit: 0}
+    - - 157
+      - 156
+      - {speed_limit: 0}
+    - - 156
+      - 171
+      - {speed_limit: 0}
+    - - 171
+      - 156
+      - {speed_limit: 0}
+    - - 157
+      - 158
+      - {speed_limit: 0}
+    - - 158
+      - 157
+      - {speed_limit: 0}
+    - - 157
+      - 172
+      - {speed_limit: 0}
+    - - 172
+      - 157
+      - {speed_limit: 0}
+    - - 158
+      - 159
+      - {speed_limit: 0}
+    - - 159
+      - 158
+      - {speed_limit: 0}
+    - - 158
+      - 173
+      - {speed_limit: 0}
+    - - 173
+      - 158
+      - {speed_limit: 0}
+    - - 159
+      - 160
+      - {speed_limit: 0}
+    - - 160
+      - 159
+      - {speed_limit: 0}
+    - - 159
+      - 174
+      - {speed_limit: 0}
+    - - 174
+      - 159
+      - {speed_limit: 0}
+    - - 160
+      - 161
+      - {speed_limit: 0}
+    - - 161
+      - 160
+      - {speed_limit: 0}
+    - - 160
+      - 175
+      - {speed_limit: 0}
+    - - 175
+      - 160
+      - {speed_limit: 0}
+    - - 161
+      - 162
+      - {speed_limit: 0}
+    - - 162
+      - 161
+      - {speed_limit: 0}
+    - - 161
+      - 176
+      - {speed_limit: 0}
+    - - 176
+      - 161
+      - {speed_limit: 0}
+    - - 162
+      - 163
+      - {speed_limit: 0}
+    - - 163
+      - 162
+      - {speed_limit: 0}
+    - - 162
+      - 177
+      - {speed_limit: 0}
+    - - 177
+      - 162
+      - {speed_limit: 0}
+    - - 163
+      - 164
+      - {speed_limit: 0}
+    - - 164
+      - 163
+      - {speed_limit: 0}
+    - - 163
+      - 178
+      - {speed_limit: 0}
+    - - 178
+      - 163
+      - {speed_limit: 0}
+    - - 164
+      - 179
+      - {speed_limit: 0}
+    - - 179
+      - 164
+      - {speed_limit: 0}
+    - - 165
+      - 166
+      - {speed_limit: 0}
+    - - 166
+      - 165
+      - {speed_limit: 0}
+    - - 165
+      - 180
+      - {speed_limit: 0}
+    - - 180
+      - 165
+      - {speed_limit: 0}
+    - - 166
+      - 167
+      - {speed_limit: 0}
+    - - 167
+      - 166
+      - {speed_limit: 0}
+    - - 166
+      - 181
+      - {speed_limit: 0}
+    - - 181
+      - 166
+      - {speed_limit: 0}
+    - - 167
+      - 168
+      - {speed_limit: 0}
+    - - 168
+      - 167
+      - {speed_limit: 0}
+    - - 167
+      - 182
+      - {speed_limit: 0}
+    - - 182
+      - 167
+      - {speed_limit: 0}
+    - - 168
+      - 169
+      - {speed_limit: 0}
+    - - 169
+      - 168
+      - {speed_limit: 0}
+    - - 168
+      - 183
+      - {speed_limit: 0}
+    - - 183
+      - 168
+      - {speed_limit: 0}
+    - - 169
+      - 170
+      - {speed_limit: 0}
+    - - 170
+      - 169
+      - {speed_limit: 0}
+    - - 169
+      - 184
+      - {speed_limit: 0}
+    - - 184
+      - 169
+      - {speed_limit: 0}
+    - - 170
+      - 171
+      - {speed_limit: 0}
+    - - 171
+      - 170
+      - {speed_limit: 0}
+    - - 170
+      - 185
+      - {speed_limit: 0}
+    - - 185
+      - 170
+      - {speed_limit: 0}
+    - - 171
+      - 172
+      - {speed_limit: 0}
+    - - 172
+      - 171
+      - {speed_limit: 0}
+    - - 171
+      - 186
+      - {speed_limit: 0}
+    - - 186
+      - 171
+      - {speed_limit: 0}
+    - - 172
+      - 173
+      - {speed_limit: 0}
+    - - 173
+      - 172
+      - {speed_limit: 0}
+    - - 172
+      - 187
+      - {speed_limit: 0}
+    - - 187
+      - 172
+      - {speed_limit: 0}
+    - - 173
+      - 174
+      - {speed_limit: 0}
+    - - 174
+      - 173
+      - {speed_limit: 0}
+    - - 173
+      - 188
+      - {speed_limit: 0}
+    - - 188
+      - 173
+      - {speed_limit: 0}
+    - - 174
+      - 175
+      - {speed_limit: 0}
+    - - 175
+      - 174
+      - {speed_limit: 0}
+    - - 174
+      - 189
+      - {speed_limit: 0}
+    - - 189
+      - 174
+      - {speed_limit: 0}
+    - - 175
+      - 176
+      - {speed_limit: 0}
+    - - 176
+      - 175
+      - {speed_limit: 0}
+    - - 175
+      - 190
+      - {speed_limit: 0}
+    - - 190
+      - 175
+      - {speed_limit: 0}
+    - - 176
+      - 177
+      - {speed_limit: 0}
+    - - 177
+      - 176
+      - {speed_limit: 0}
+    - - 176
+      - 191
+      - {speed_limit: 0}
+    - - 191
+      - 176
+      - {speed_limit: 0}
+    - - 177
+      - 178
+      - {speed_limit: 0}
+    - - 178
+      - 177
+      - {speed_limit: 0}
+    - - 177
+      - 192
+      - {speed_limit: 0}
+    - - 192
+      - 177
+      - {speed_limit: 0}
+    - - 178
+      - 179
+      - {speed_limit: 0}
+    - - 179
+      - 178
+      - {speed_limit: 0}
+    - - 178
+      - 193
+      - {speed_limit: 0}
+    - - 193
+      - 178
+      - {speed_limit: 0}
+    - - 179
+      - 194
+      - {speed_limit: 0}
+    - - 194
+      - 179
+      - {speed_limit: 0}
+    - - 180
+      - 181
+      - {speed_limit: 0}
+    - - 181
+      - 180
+      - {speed_limit: 0}
+    - - 180
+      - 195
+      - {speed_limit: 0}
+    - - 195
+      - 180
+      - {speed_limit: 0}
+    - - 181
+      - 182
+      - {speed_limit: 0}
+    - - 182
+      - 181
+      - {speed_limit: 0}
+    - - 181
+      - 196
+      - {speed_limit: 0}
+    - - 196
+      - 181
+      - {speed_limit: 0}
+    - - 182
+      - 183
+      - {speed_limit: 0}
+    - - 183
+      - 182
+      - {speed_limit: 0}
+    - - 182
+      - 197
+      - {speed_limit: 0}
+    - - 197
+      - 182
+      - {speed_limit: 0}
+    - - 183
+      - 184
+      - {speed_limit: 0}
+    - - 184
+      - 183
+      - {speed_limit: 0}
+    - - 183
+      - 198
+      - {speed_limit: 0}
+    - - 198
+      - 183
+      - {speed_limit: 0}
+    - - 184
+      - 185
+      - {speed_limit: 0}
+    - - 185
+      - 184
+      - {speed_limit: 0}
+    - - 184
+      - 199
+      - {speed_limit: 0}
+    - - 199
+      - 184
+      - {speed_limit: 0}
+    - - 185
+      - 186
+      - {speed_limit: 0}
+    - - 186
+      - 185
+      - {speed_limit: 0}
+    - - 185
+      - 200
+      - {speed_limit: 0}
+    - - 200
+      - 185
+      - {speed_limit: 0}
+    - - 186
+      - 187
+      - {speed_limit: 0}
+    - - 187
+      - 186
+      - {speed_limit: 0}
+    - - 186
+      - 201
+      - {speed_limit: 0}
+    - - 201
+      - 186
+      - {speed_limit: 0}
+    - - 187
+      - 188
+      - {speed_limit: 0}
+    - - 188
+      - 187
+      - {speed_limit: 0}
+    - - 187
+      - 202
+      - {speed_limit: 0}
+    - - 202
+      - 187
+      - {speed_limit: 0}
+    - - 188
+      - 189
+      - {speed_limit: 0}
+    - - 189
+      - 188
+      - {speed_limit: 0}
+    - - 188
+      - 203
+      - {speed_limit: 0}
+    - - 203
+      - 188
+      - {speed_limit: 0}
+    - - 189
+      - 190
+      - {speed_limit: 0}
+    - - 190
+      - 189
+      - {speed_limit: 0}
+    - - 189
+      - 204
+      - {speed_limit: 0}
+    - - 204
+      - 189
+      - {speed_limit: 0}
+    - - 190
+      - 191
+      - {speed_limit: 0}
+    - - 191
+      - 190
+      - {speed_limit: 0}
+    - - 190
+      - 205
+      - {speed_limit: 0}
+    - - 205
+      - 190
+      - {speed_limit: 0}
+    - - 191
+      - 192
+      - {speed_limit: 0}
+    - - 192
+      - 191
+      - {speed_limit: 0}
+    - - 191
+      - 206
+      - {speed_limit: 0}
+    - - 206
+      - 191
+      - {speed_limit: 0}
+    - - 192
+      - 193
+      - {speed_limit: 0}
+    - - 193
+      - 192
+      - {speed_limit: 0}
+    - - 192
+      - 207
+      - {speed_limit: 0}
+    - - 207
+      - 192
+      - {speed_limit: 0}
+    - - 193
+      - 194
+      - {speed_limit: 0}
+    - - 194
+      - 193
+      - {speed_limit: 0}
+    - - 193
+      - 208
+      - {speed_limit: 0}
+    - - 208
+      - 193
+      - {speed_limit: 0}
+    - - 194
+      - 209
+      - {speed_limit: 0}
+    - - 209
+      - 194
+      - {speed_limit: 0}
+    - - 195
+      - 196
+      - {speed_limit: 0}
+    - - 196
+      - 195
+      - {speed_limit: 0}
+    - - 196
+      - 197
+      - {speed_limit: 0}
+    - - 197
+      - 196
+      - {speed_limit: 0}
+    - - 197
+      - 198
+      - {speed_limit: 0}
+    - - 198
+      - 197
+      - {speed_limit: 0}
+    - - 198
+      - 199
+      - {speed_limit: 0}
+    - - 199
+      - 198
+      - {speed_limit: 0}
+    - - 199
+      - 200
+      - {speed_limit: 0}
+    - - 200
+      - 199
+      - {speed_limit: 0}
+    - - 200
+      - 201
+      - {speed_limit: 0}
+    - - 201
+      - 200
+      - {speed_limit: 0}
+    - - 201
+      - 202
+      - {speed_limit: 0}
+    - - 202
+      - 201
+      - {speed_limit: 0}
+    - - 202
+      - 203
+      - {speed_limit: 0}
+    - - 203
+      - 202
+      - {speed_limit: 0}
+    - - 203
+      - 204
+      - {speed_limit: 0}
+    - - 204
+      - 203
+      - {speed_limit: 0}
+    - - 204
+      - 205
+      - {speed_limit: 0}
+    - - 205
+      - 204
+      - {speed_limit: 0}
+    - - 205
+      - 206
+      - {speed_limit: 0}
+    - - 206
+      - 205
+      - {speed_limit: 0}
+    - - 206
+      - 207
+      - {speed_limit: 0}
+    - - 207
+      - 206
+      - {speed_limit: 0}
+    - - 207
+      - 208
+      - {speed_limit: 0}
+    - - 208
+      - 207
+      - {speed_limit: 0}
+    - - 208
+      - 209
+      - {speed_limit: 0}
+    - - 209
+      - 208
+      - {speed_limit: 0}
+    - - 210
+      - 0
+      - {speed_limit: 0}
+    - - 0
+      - 210
+      - {speed_limit: 0}
+    - - 211
+      - 1
+      - {speed_limit: 0}
+    - - 1
+      - 211
+      - {speed_limit: 0}
+    - - 212
+      - 5
+      - {speed_limit: 0}
+    - - 5
+      - 212
+      - {speed_limit: 0}
+    - - 213
+      - 7
+      - {speed_limit: 0}
+    - - 7
+      - 213
+      - {speed_limit: 0}
+    - - 214
+      - 11
+      - {speed_limit: 0}
+    - - 11
+      - 214
+      - {speed_limit: 0}
+    - - 215
+      - 13
+      - {speed_limit: 0}
+    - - 13
+      - 215
+      - {speed_limit: 0}
+    - - 216
+      - 2
+      - {speed_limit: 0}
+    - - 2
+      - 216
+      - {speed_limit: 0}
+    - - 217
+      - 60
+      - {speed_limit: 0}
+    - - 60
+      - 217
+      - {speed_limit: 0}
+    - - 218
+      - 105
+      - {speed_limit: 0}
+    - - 105
+      - 218
+      - {speed_limit: 0}
+    - - 219
+      - 19
+      - {speed_limit: 0}
+    - - 19
+      - 219
+      - {speed_limit: 0}
+    - - 220
+      - 21
+      - {speed_limit: 0}
+    - - 21
+      - 220
+      - {speed_limit: 0}
+    - - 221
+      - 25
+      - {speed_limit: 0}
+    - - 25
+      - 221
+      - {speed_limit: 0}
+    - - 222
+      - 27
+      - {speed_limit: 0}
+    - - 27
+      - 222
+      - {speed_limit: 0}
+    - - 223
+      - 29
+      - {speed_limit: 0}
+    - - 29
+      - 223
+      - {speed_limit: 0}
+    - - 224
+      - 59
+      - {speed_limit: 0}
+    - - 59
+      - 224
+      - {speed_limit: 0}
+    - - 225
+      - 74
+      - {speed_limit: 0}
+    - - 74
+      - 225
+      - {speed_limit: 0}
+    - - 226
+      - 89
+      - {speed_limit: 0}
+    - - 89
+      - 226
+      - {speed_limit: 0}
+    - - 227
+      - 119
+      - {speed_limit: 0}
+    - - 119
+      - 227
+      - {speed_limit: 0}
+    - - 228
+      - 149
+      - {speed_limit: 0}
+    - - 149
+      - 228
+      - {speed_limit: 0}
+    - - 229
+      - 179
+      - {speed_limit: 0}
+    - - 179
+      - 229
+      - {speed_limit: 0}
+    - - 230
+      - 194
+      - {speed_limit: 0}
+    - - 194
+      - 230
+      - {speed_limit: 0}
+    - - 231
+      - 209
+      - {speed_limit: 0}
+    - - 209
+      - 231
+      - {speed_limit: 0}
+    - - 208
+      - 232
+      - {speed_limit: 0}
+    - - 232
+      - 208
+      - {speed_limit: 0}
+    - - 233
+      - 206
+      - {speed_limit: 0}
+    - - 206
+      - 233
+      - {speed_limit: 0}
+    - - 205
+      - 234
+      - {speed_limit: 0}
+    - - 234
+      - 205
+      - {speed_limit: 0}
+    - - 235
+      - 202
+      - {speed_limit: 0}
+    - - 202
+      - 235
+      - {speed_limit: 0}
+    - - 236
+      - 201
+      - {speed_limit: 0}
+    - - 201
+      - 236
+      - {speed_limit: 0}
+    - - 237
+      - 199
+      - {speed_limit: 0}
+    - - 199
+      - 237
+      - {speed_limit: 0}
+    - - 238
+      - 198
+      - {speed_limit: 0}
+    - - 198
+      - 238
+      - {speed_limit: 0}
+    - - 239
+      - 196
+      - {speed_limit: 0}
+    - - 196
+      - 239
+      - {speed_limit: 0}
+    - - 240
+      - 195
+      - {speed_limit: 0}
+    - - 195
+      - 240
+      - {speed_limit: 0}
+    - - 241
+      - 165
+      - {speed_limit: 0}
+    - - 165
+      - 241
+      - {speed_limit: 0}
+    vertices:
+    - - 2.5
+      - -2.5
+      - {name: ''}
+    - - 4.0
+      - -2.5
+      - {name: ''}
+    - - 2.5
+      - -4.0
+      - {name: ''}
+    - - 5.5
+      - -2.5
+      - {name: ''}
+    - - 4.0
+      - -4.0
+      - {name: ''}
+    - - 7.0
+      - -2.5
+      - {name: ''}
+    - - 5.5
+      - -4.0
+      - {name: ''}
+    - - 8.5
+      - -2.5
+      - {name: ''}
+    - - 7.0
+      - -4.0
+      - {name: ''}
+    - - 10.0
+      - -2.5
+      - {name: ''}
+    - - 8.5
+      - -4.0
+      - {name: ''}
+    - - 11.5
+      - -2.5
+      - {name: ''}
+    - - 10.0
+      - -4.0
+      - {name: ''}
+    - - 13.0
+      - -2.5
+      - {name: ''}
+    - - 11.5
+      - -4.0
+      - {name: ''}
+    - - 14.5
+      - -2.5
+      - {name: ''}
+    - - 13.0
+      - -4.0
+      - {name: ''}
+    - - 16.0
+      - -2.5
+      - {name: ''}
+    - - 14.5
+      - -4.0
+      - {name: ''}
+    - - 17.5
+      - -2.5
+      - {name: ''}
+    - - 16.0
+      - -4.0
+      - {name: ''}
+    - - 19.0
+      - -2.5
+      - {name: ''}
+    - - 17.5
+      - -4.0
+      - {name: ''}
+    - - 20.5
+      - -2.5
+      - {name: ''}
+    - - 19.0
+      - -4.0
+      - {name: ''}
+    - - 22.0
+      - -2.5
+      - {name: ''}
+    - - 20.5
+      - -4.0
+      - {name: ''}
+    - - 23.5
+      - -2.5
+      - {name: ''}
+    - - 22.0
+      - -4.0
+      - {name: ''}
+    - - 23.5
+      - -4.0
+      - {name: ''}
+    - - 2.5
+      - -5.5
+      - {name: ''}
+    - - 4.0
+      - -5.5
+      - {name: ''}
+    - - 5.5
+      - -5.5
+      - {name: ''}
+    - - 7.0
+      - -5.5
+      - {name: ''}
+    - - 8.5
+      - -5.5
+      - {name: ''}
+    - - 10.0
+      - -5.5
+      - {name: ''}
+    - - 11.5
+      - -5.5
+      - {name: ''}
+    - - 13.0
+      - -5.5
+      - {name: ''}
+    - - 14.5
+      - -5.5
+      - {name: ''}
+    - - 16.0
+      - -5.5
+      - {name: ''}
+    - - 17.5
+      - -5.5
+      - {name: ''}
+    - - 19.0
+      - -5.5
+      - {name: ''}
+    - - 20.5
+      - -5.5
+      - {name: ''}
+    - - 22.0
+      - -5.5
+      - {name: ''}
+    - - 23.5
+      - -5.5
+      - {name: ''}
+    - - 2.5
+      - -7.0
+      - {name: ''}
+    - - 4.0
+      - -7.0
+      - {name: ''}
+    - - 5.5
+      - -7.0
+      - {name: ''}
+    - - 7.0
+      - -7.0
+      - {name: ''}
+    - - 8.5
+      - -7.0
+      - {name: ''}
+    - - 10.0
+      - -7.0
+      - {name: ''}
+    - - 11.5
+      - -7.0
+      - {name: ''}
+    - - 13.0
+      - -7.0
+      - {name: ''}
+    - - 14.5
+      - -7.0
+      - {name: ''}
+    - - 16.0
+      - -7.0
+      - {name: ''}
+    - - 17.5
+      - -7.0
+      - {name: ''}
+    - - 19.0
+      - -7.0
+      - {name: ''}
+    - - 20.5
+      - -7.0
+      - {name: ''}
+    - - 22.0
+      - -7.0
+      - {name: ''}
+    - - 23.5
+      - -7.0
+      - {name: ''}
+    - - 2.5
+      - -8.5
+      - {name: ''}
+    - - 4.0
+      - -8.5
+      - {name: ''}
+    - - 5.5
+      - -8.5
+      - {name: ''}
+    - - 7.0
+      - -8.5
+      - {name: ''}
+    - - 8.5
+      - -8.5
+      - {name: ''}
+    - - 10.0
+      - -8.5
+      - {name: ''}
+    - - 11.5
+      - -8.5
+      - {name: ''}
+    - - 13.0
+      - -8.5
+      - {name: ''}
+    - - 14.5
+      - -8.5
+      - {name: ''}
+    - - 16.0
+      - -8.5
+      - {name: ''}
+    - - 17.5
+      - -8.5
+      - {name: ''}
+    - - 19.0
+      - -8.5
+      - {name: ''}
+    - - 20.5
+      - -8.5
+      - {name: ''}
+    - - 22.0
+      - -8.5
+      - {name: ''}
+    - - 23.5
+      - -8.5
+      - {name: ''}
+    - - 2.5
+      - -10.0
+      - {name: ''}
+    - - 4.0
+      - -10.0
+      - {name: ''}
+    - - 5.5
+      - -10.0
+      - {name: ''}
+    - - 7.0
+      - -10.0
+      - {name: ''}
+    - - 8.5
+      - -10.0
+      - {name: ''}
+    - - 10.0
+      - -10.0
+      - {name: ''}
+    - - 11.5
+      - -10.0
+      - {name: ''}
+    - - 13.0
+      - -10.0
+      - {name: ''}
+    - - 14.5
+      - -10.0
+      - {name: ''}
+    - - 16.0
+      - -10.0
+      - {name: ''}
+    - - 17.5
+      - -10.0
+      - {name: ''}
+    - - 19.0
+      - -10.0
+      - {name: ''}
+    - - 20.5
+      - -10.0
+      - {name: ''}
+    - - 22.0
+      - -10.0
+      - {name: ''}
+    - - 23.5
+      - -10.0
+      - {name: ''}
+    - - 2.5
+      - -11.5
+      - {name: ''}
+    - - 4.0
+      - -11.5
+      - {name: ''}
+    - - 5.5
+      - -11.5
+      - {name: ''}
+    - - 7.0
+      - -11.5
+      - {name: ''}
+    - - 8.5
+      - -11.5
+      - {name: ''}
+    - - 10.0
+      - -11.5
+      - {name: ''}
+    - - 11.5
+      - -11.5
+      - {name: ''}
+    - - 13.0
+      - -11.5
+      - {name: ''}
+    - - 14.5
+      - -11.5
+      - {name: ''}
+    - - 16.0
+      - -11.5
+      - {name: ''}
+    - - 17.5
+      - -11.5
+      - {name: ''}
+    - - 19.0
+      - -11.5
+      - {name: ''}
+    - - 20.5
+      - -11.5
+      - {name: ''}
+    - - 22.0
+      - -11.5
+      - {name: ''}
+    - - 23.5
+      - -11.5
+      - {name: ''}
+    - - 2.5
+      - -13.0
+      - {name: ''}
+    - - 4.0
+      - -13.0
+      - {name: ''}
+    - - 5.5
+      - -13.0
+      - {name: ''}
+    - - 7.0
+      - -13.0
+      - {name: ''}
+    - - 8.5
+      - -13.0
+      - {name: ''}
+    - - 10.0
+      - -13.0
+      - {name: ''}
+    - - 11.5
+      - -13.0
+      - {name: ''}
+    - - 13.0
+      - -13.0
+      - {name: ''}
+    - - 14.5
+      - -13.0
+      - {name: ''}
+    - - 16.0
+      - -13.0
+      - {name: ''}
+    - - 17.5
+      - -13.0
+      - {name: ''}
+    - - 19.0
+      - -13.0
+      - {name: ''}
+    - - 20.5
+      - -13.0
+      - {name: ''}
+    - - 22.0
+      - -13.0
+      - {name: ''}
+    - - 23.5
+      - -13.0
+      - {name: ''}
+    - - 2.5
+      - -14.5
+      - {name: ''}
+    - - 4.0
+      - -14.5
+      - {name: ''}
+    - - 5.5
+      - -14.5
+      - {name: ''}
+    - - 7.0
+      - -14.5
+      - {name: ''}
+    - - 8.5
+      - -14.5
+      - {name: ''}
+    - - 10.0
+      - -14.5
+      - {name: ''}
+    - - 11.5
+      - -14.5
+      - {name: ''}
+    - - 13.0
+      - -14.5
+      - {name: ''}
+    - - 14.5
+      - -14.5
+      - {name: ''}
+    - - 16.0
+      - -14.5
+      - {name: ''}
+    - - 17.5
+      - -14.5
+      - {name: ''}
+    - - 19.0
+      - -14.5
+      - {name: ''}
+    - - 20.5
+      - -14.5
+      - {name: ''}
+    - - 22.0
+      - -14.5
+      - {name: ''}
+    - - 23.5
+      - -14.5
+      - {name: ''}
+    - - 2.5
+      - -16.0
+      - {name: ''}
+    - - 4.0
+      - -16.0
+      - {name: ''}
+    - - 5.5
+      - -16.0
+      - {name: ''}
+    - - 7.0
+      - -16.0
+      - {name: ''}
+    - - 8.5
+      - -16.0
+      - {name: ''}
+    - - 10.0
+      - -16.0
+      - {name: ''}
+    - - 11.5
+      - -16.0
+      - {name: ''}
+    - - 13.0
+      - -16.0
+      - {name: ''}
+    - - 14.5
+      - -16.0
+      - {name: ''}
+    - - 16.0
+      - -16.0
+      - {name: ''}
+    - - 17.5
+      - -16.0
+      - {name: ''}
+    - - 19.0
+      - -16.0
+      - {name: ''}
+    - - 20.5
+      - -16.0
+      - {name: ''}
+    - - 22.0
+      - -16.0
+      - {name: ''}
+    - - 23.5
+      - -16.0
+      - {name: ''}
+    - - 2.5
+      - -17.5
+      - {name: ''}
+    - - 4.0
+      - -17.5
+      - {name: ''}
+    - - 5.5
+      - -17.5
+      - {name: ''}
+    - - 7.0
+      - -17.5
+      - {name: ''}
+    - - 8.5
+      - -17.5
+      - {name: ''}
+    - - 10.0
+      - -17.5
+      - {name: ''}
+    - - 11.5
+      - -17.5
+      - {name: ''}
+    - - 13.0
+      - -17.5
+      - {name: ''}
+    - - 14.5
+      - -17.5
+      - {name: ''}
+    - - 16.0
+      - -17.5
+      - {name: ''}
+    - - 17.5
+      - -17.5
+      - {name: ''}
+    - - 19.0
+      - -17.5
+      - {name: ''}
+    - - 20.5
+      - -17.5
+      - {name: ''}
+    - - 22.0
+      - -17.5
+      - {name: ''}
+    - - 23.5
+      - -17.5
+      - {name: ''}
+    - - 2.5
+      - -19.0
+      - {name: ''}
+    - - 4.0
+      - -19.0
+      - {name: ''}
+    - - 5.5
+      - -19.0
+      - {name: ''}
+    - - 7.0
+      - -19.0
+      - {name: ''}
+    - - 8.5
+      - -19.0
+      - {name: ''}
+    - - 10.0
+      - -19.0
+      - {name: ''}
+    - - 11.5
+      - -19.0
+      - {name: ''}
+    - - 13.0
+      - -19.0
+      - {name: ''}
+    - - 14.5
+      - -19.0
+      - {name: ''}
+    - - 16.0
+      - -19.0
+      - {name: ''}
+    - - 17.5
+      - -19.0
+      - {name: ''}
+    - - 19.0
+      - -19.0
+      - {name: ''}
+    - - 20.5
+      - -19.0
+      - {name: ''}
+    - - 22.0
+      - -19.0
+      - {name: ''}
+    - - 23.5
+      - -19.0
+      - {name: ''}
+    - - 2.5
+      - -20.5
+      - {name: ''}
+    - - 4.0
+      - -20.5
+      - {name: ''}
+    - - 5.5
+      - -20.5
+      - {name: ''}
+    - - 7.0
+      - -20.5
+      - {name: ''}
+    - - 8.5
+      - -20.5
+      - {name: ''}
+    - - 10.0
+      - -20.5
+      - {name: ''}
+    - - 11.5
+      - -20.5
+      - {name: ''}
+    - - 13.0
+      - -20.5
+      - {name: ''}
+    - - 14.5
+      - -20.5
+      - {name: ''}
+    - - 16.0
+      - -20.5
+      - {name: ''}
+    - - 17.5
+      - -20.5
+      - {name: ''}
+    - - 19.0
+      - -20.5
+      - {name: ''}
+    - - 20.5
+      - -20.5
+      - {name: ''}
+    - - 22.0
+      - -20.5
+      - {name: ''}
+    - - 23.5
+      - -20.5
+      - {name: ''}
+    - - 2.5
+      - -22.0
+      - {name: ''}
+    - - 4.0
+      - -22.0
+      - {name: ''}
+    - - 5.5
+      - -22.0
+      - {name: ''}
+    - - 7.0
+      - -22.0
+      - {name: ''}
+    - - 8.5
+      - -22.0
+      - {name: ''}
+    - - 10.0
+      - -22.0
+      - {name: ''}
+    - - 11.5
+      - -22.0
+      - {name: ''}
+    - - 13.0
+      - -22.0
+      - {name: ''}
+    - - 14.5
+      - -22.0
+      - {name: ''}
+    - - 16.0
+      - -22.0
+      - {name: ''}
+    - - 17.5
+      - -22.0
+      - {name: ''}
+    - - 19.0
+      - -22.0
+      - {name: ''}
+    - - 20.5
+      - -22.0
+      - {name: ''}
+    - - 22.0
+      - -22.0
+      - {name: ''}
+    - - 23.5
+      - -22.0
+      - {name: ''}
+    - - 2.5
+      - -0.5
+      - {is_charger: true, is_parking_spot: true, name: TinyRobot1_Spawn, spawn_robot_name: TinyRobot1,
+        spawn_robot_type: TinyRobot}
+    - - 4.0
+      - -0.5
+      - {name: Obrabiarka0}
+    - - 7.0
+      - -0.5
+      - {is_charger: true, is_parking_spot: true, name: TinyRobot2_Spawn, spawn_robot_name: TinyRobot2,
+        spawn_robot_type: TinyRobot}
+    - - 8.5
+      - -0.5
+      - {name: Obrabiarka1}
+    - - 11.5
+      - -0.5
+      - {is_charger: true, is_parking_spot: true, name: TinyRobot3_Spawn, spawn_robot_name: TinyRobot3,
+        spawn_robot_type: TinyRobot}
+    - - 13.0
+      - -0.5
+      - {name: Obrabiarka2}
+    - - 1.0
+      - -4.0
+      - {name: MagazynWyj1}
+    - - 1.0
+      - -8.5
+      - {name: MagazynWyj2}
+    - - 1.0
+      - -13.0
+      - {name: MagazynWyj3}
+    - - 17.5
+      - -0.5
+      - {is_charger: true, is_parking_spot: true, name: TinyRobot4_Spawn, spawn_robot_name: TinyRobot4,
+        spawn_robot_type: TinyRobot}
+    - - 19.0
+      - -0.5
+      - {name: Obrabiarka3}
+    - - 22.0
+      - -0.5
+      - {is_charger: true, is_parking_spot: true, name: TinyRobot5_Spawn, spawn_robot_name: TinyRobot5,
+        spawn_robot_type: TinyRobot}
+    - - 23.5
+      - -0.5
+      - {name: Obrabiarka4}
+    - - 25.0
+      - -4.0
+      - {name: MagazynWej1}
+    - - 25.0
+      - -7.0
+      - {name: MagazynWej2}
+    - - 25.0
+      - -8.5
+      - {name: MagazynWej3}
+    - - 25.0
+      - -10.0
+      - {name: MagazynWej4}
+    - - 25.0
+      - -13.0
+      - {name: MagazynWej5}
+    - - 25.0
+      - -16.0
+      - {name: MagazynWej6}
+    - - 25.0
+      - -19.0
+      - {name: MagazynWej7}
+    - - 25.0
+      - -20.5
+      - {name: MagazynWej8}
+    - - 23.5
+      - -23.5
+      - {name: Obrabiarka5}
+    - - 22.0
+      - -23.5
+      - {is_charger: true, is_parking_spot: true, name: TinyRobot10_Spawn}
+    - - 19.0
+      - -23.5
+      - {name: Obrabiarka6}
+    - - 17.5
+      - -23.5
+      - {is_charger: true, is_parking_spot: true, name: TinyRobot9_Spawn, spawn_robot_name: TinyRobot9,
+        spawn_robot_type: TinyRobot}
+    - - 13.0
+      - -23.5
+      - {name: Obrabiarka7}
+    - - 11.5
+      - -23.5
+      - {is_charger: true, is_parking_spot: true, name: TinyRobot8_Spawn, spawn_robot_name: TinyRobot8,
+        spawn_robot_type: TinyRobot}
+    - - 8.5
+      - -23.5
+      - {name: Obrabiarka8}
+    - - 7.0
+      - -23.5
+      - {is_charger: true, is_parking_spot: true, name: TinyRobot7_Spawn, spawn_robot_name: TinyRobot7,
+        spawn_robot_type: TinyRobot}
+    - - 4.0
+      - -23.5
+      - {name: Obrabiarka9}
+    - - 2.5
+      - -23.5
+      - {is_charger: true, is_parking_spot: true, name: TinyRobot6_Spawn, spawn_robot_name: TinyRobot6,
+        spawn_robot_type: TinyRobot}
+    - - 1.0
+      - -19.0
+      - {name: MagazynWyj4}

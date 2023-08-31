@@ -1,0 +1,957 @@
+building_name: Wariant1
+levels:
+  L1:
+    lanes:
+    - - 0
+      - 1
+      - {speed_limit: 0}
+    - - 1
+      - 0
+      - {speed_limit: 0}
+    - - 1
+      - 2
+      - {speed_limit: 0}
+    - - 2
+      - 1
+      - {speed_limit: 0}
+    - - 2
+      - 3
+      - {speed_limit: 0}
+    - - 3
+      - 2
+      - {speed_limit: 0}
+    - - 3
+      - 4
+      - {speed_limit: 0}
+    - - 4
+      - 3
+      - {speed_limit: 0}
+    - - 3
+      - 5
+      - {speed_limit: 0}
+    - - 5
+      - 3
+      - {speed_limit: 0}
+    - - 5
+      - 6
+      - {speed_limit: 0}
+    - - 6
+      - 5
+      - {speed_limit: 0}
+    - - 5
+      - 7
+      - {speed_limit: 0}
+    - - 7
+      - 5
+      - {speed_limit: 0}
+    - - 7
+      - 8
+      - {speed_limit: 0}
+    - - 8
+      - 7
+      - {speed_limit: 0}
+    - - 7
+      - 9
+      - {speed_limit: 0}
+    - - 9
+      - 7
+      - {speed_limit: 0}
+    - - 9
+      - 10
+      - {speed_limit: 0}
+    - - 10
+      - 9
+      - {speed_limit: 0}
+    - - 9
+      - 11
+      - {speed_limit: 0}
+    - - 11
+      - 9
+      - {speed_limit: 0}
+    - - 11
+      - 12
+      - {speed_limit: 0}
+    - - 12
+      - 11
+      - {speed_limit: 0}
+    - - 11
+      - 13
+      - {speed_limit: 0}
+    - - 13
+      - 11
+      - {speed_limit: 0}
+    - - 13
+      - 14
+      - {speed_limit: 0}
+    - - 14
+      - 13
+      - {speed_limit: 0}
+    - - 13
+      - 15
+      - {speed_limit: 0}
+    - - 15
+      - 13
+      - {speed_limit: 0}
+    - - 15
+      - 16
+      - {speed_limit: 0}
+    - - 16
+      - 15
+      - {speed_limit: 0}
+    - - 15
+      - 17
+      - {speed_limit: 0}
+    - - 17
+      - 15
+      - {speed_limit: 0}
+    - - 17
+      - 18
+      - {speed_limit: 0}
+    - - 18
+      - 17
+      - {speed_limit: 0}
+    - - 17
+      - 19
+      - {speed_limit: 0}
+    - - 19
+      - 17
+      - {speed_limit: 0}
+    - - 19
+      - 20
+      - {speed_limit: 0}
+    - - 20
+      - 19
+      - {speed_limit: 0}
+    - - 20
+      - 21
+      - {speed_limit: 0}
+    - - 21
+      - 20
+      - {speed_limit: 0}
+    - - 20
+      - 22
+      - {speed_limit: 0}
+    - - 22
+      - 20
+      - {speed_limit: 0}
+    - - 22
+      - 23
+      - {speed_limit: 0}
+    - - 23
+      - 22
+      - {speed_limit: 0}
+    - - 22
+      - 24
+      - {speed_limit: 0}
+    - - 24
+      - 22
+      - {speed_limit: 0}
+    - - 24
+      - 25
+      - {speed_limit: 0}
+    - - 25
+      - 24
+      - {speed_limit: 0}
+    - - 24
+      - 26
+      - {speed_limit: 0}
+    - - 26
+      - 24
+      - {speed_limit: 0}
+    - - 26
+      - 27
+      - {speed_limit: 0}
+    - - 27
+      - 26
+      - {speed_limit: 0}
+    - - 26
+      - 28
+      - {speed_limit: 0}
+    - - 28
+      - 26
+      - {speed_limit: 0}
+    - - 28
+      - 29
+      - {speed_limit: 0}
+    - - 29
+      - 28
+      - {speed_limit: 0}
+    - - 28
+      - 30
+      - {speed_limit: 0}
+    - - 30
+      - 28
+      - {speed_limit: 0}
+    - - 30
+      - 31
+      - {speed_limit: 0}
+    - - 31
+      - 30
+      - {speed_limit: 0}
+    - - 31
+      - 32
+      - {speed_limit: 0}
+    - - 32
+      - 31
+      - {speed_limit: 0}
+    - - 31
+      - 33
+      - {speed_limit: 0}
+    - - 33
+      - 31
+      - {speed_limit: 0}
+    - - 33
+      - 34
+      - {speed_limit: 0}
+    - - 34
+      - 33
+      - {speed_limit: 0}
+    - - 33
+      - 35
+      - {speed_limit: 0}
+    - - 35
+      - 33
+      - {speed_limit: 0}
+    - - 35
+      - 36
+      - {speed_limit: 0}
+    - - 36
+      - 35
+      - {speed_limit: 0}
+    - - 35
+      - 37
+      - {speed_limit: 0}
+    - - 37
+      - 35
+      - {speed_limit: 0}
+    - - 37
+      - 38
+      - {speed_limit: 0}
+    - - 38
+      - 37
+      - {speed_limit: 0}
+    - - 37
+      - 39
+      - {speed_limit: 0}
+    - - 39
+      - 37
+      - {speed_limit: 0}
+    - - 39
+      - 40
+      - {speed_limit: 0}
+    - - 40
+      - 39
+      - {speed_limit: 0}
+    - - 40
+      - 41
+      - {speed_limit: 0}
+    - - 41
+      - 40
+      - {speed_limit: 0}
+    - - 40
+      - 42
+      - {speed_limit: 0}
+    - - 42
+      - 40
+      - {speed_limit: 0}
+    - - 42
+      - 43
+      - {speed_limit: 0}
+    - - 43
+      - 42
+      - {speed_limit: 0}
+    - - 42
+      - 44
+      - {speed_limit: 0}
+    - - 44
+      - 42
+      - {speed_limit: 0}
+    - - 44
+      - 45
+      - {speed_limit: 0}
+    - - 45
+      - 44
+      - {speed_limit: 0}
+    - - 44
+      - 46
+      - {speed_limit: 0}
+    - - 46
+      - 44
+      - {speed_limit: 0}
+    - - 46
+      - 47
+      - {speed_limit: 0}
+    - - 47
+      - 46
+      - {speed_limit: 0}
+    - - 46
+      - 1
+      - {speed_limit: 0}
+    - - 1
+      - 46
+      - {speed_limit: 0}
+    - - 40
+      - 48
+      - {speed_limit: 0}
+    - - 48
+      - 40
+      - {speed_limit: 0}
+    - - 48
+      - 49
+      - {speed_limit: 0}
+    - - 49
+      - 48
+      - {speed_limit: 0}
+    - - 50
+      - 51
+      - {is_bidirectional: false, speed_limit: 0}
+    - - 51
+      - 28
+      - {is_bidirectional: false, speed_limit: 0}
+    - - 26
+      - 52
+      - {speed_limit: 0}
+    - - 52
+      - 26
+      - {speed_limit: 0}
+    - - 52
+      - 53
+      - {speed_limit: 0}
+    - - 53
+      - 52
+      - {speed_limit: 0}
+    - - 53
+      - 54
+      - {speed_limit: 0}
+    - - 54
+      - 53
+      - {speed_limit: 0}
+    - - 54
+      - 55
+      - {speed_limit: 0}
+    - - 55
+      - 54
+      - {speed_limit: 0}
+    - - 55
+      - 42
+      - {speed_limit: 0}
+    - - 42
+      - 55
+      - {speed_limit: 0}
+    - - 44
+      - 56
+      - {speed_limit: 0}
+    - - 56
+      - 44
+      - {speed_limit: 0}
+    - - 57
+      - 58
+      - {speed_limit: 0}
+    - - 58
+      - 57
+      - {speed_limit: 0}
+    - - 59
+      - 24
+      - {speed_limit: 0}
+    - - 24
+      - 59
+      - {speed_limit: 0}
+    - - 22
+      - 60
+      - {speed_limit: 0}
+    - - 60
+      - 22
+      - {speed_limit: 0}
+    - - 61
+      - 62
+      - {speed_limit: 0}
+    - - 62
+      - 61
+      - {speed_limit: 0}
+    - - 62
+      - 63
+      - {speed_limit: 0}
+    - - 63
+      - 62
+      - {speed_limit: 0}
+    - - 63
+      - 46
+      - {speed_limit: 0}
+    - - 46
+      - 63
+      - {speed_limit: 0}
+    - - 1
+      - 64
+      - {speed_limit: 0}
+    - - 64
+      - 1
+      - {speed_limit: 0}
+    - - 64
+      - 65
+      - {speed_limit: 0}
+    - - 65
+      - 64
+      - {speed_limit: 0}
+    - - 65
+      - 66
+      - {speed_limit: 0}
+    - - 66
+      - 65
+      - {speed_limit: 0}
+    - - 66
+      - 67
+      - {speed_limit: 0}
+    - - 67
+      - 66
+      - {speed_limit: 0}
+    - - 3
+      - 64
+      - {speed_limit: 0}
+    - - 64
+      - 3
+      - {speed_limit: 0}
+    - - 64
+      - 63
+      - {speed_limit: 0}
+    - - 63
+      - 64
+      - {speed_limit: 0}
+    - - 63
+      - 56
+      - {speed_limit: 0}
+    - - 56
+      - 63
+      - {speed_limit: 0}
+    - - 56
+      - 55
+      - {speed_limit: 0}
+    - - 55
+      - 56
+      - {speed_limit: 0}
+    - - 55
+      - 48
+      - {speed_limit: 0}
+    - - 48
+      - 55
+      - {speed_limit: 0}
+    - - 48
+      - 37
+      - {speed_limit: 0}
+    - - 37
+      - 48
+      - {speed_limit: 0}
+    - - 57
+      - 62
+      - {speed_limit: 0}
+    - - 62
+      - 57
+      - {speed_limit: 0}
+    - - 65
+      - 7
+      - {speed_limit: 0}
+    - - 7
+      - 65
+      - {speed_limit: 0}
+    - - 33
+      - 50
+      - {speed_limit: 0}
+    - - 50
+      - 33
+      - {speed_limit: 0}
+    - - 50
+      - 53
+      - {speed_limit: 0}
+    - - 53
+      - 50
+      - {speed_limit: 0}
+    - - 53
+      - 58
+      - {speed_limit: 0}
+    - - 58
+      - 53
+      - {speed_limit: 0}
+    - - 61
+      - 66
+      - {speed_limit: 0}
+    - - 66
+      - 61
+      - {speed_limit: 0}
+    - - 66
+      - 11
+      - {speed_limit: 0}
+    - - 11
+      - 66
+      - {speed_limit: 0}
+    - - 31
+      - 51
+      - {speed_limit: 0}
+    - - 51
+      - 31
+      - {speed_limit: 0}
+    - - 59
+      - 60
+      - {speed_limit: 0}
+    - - 60
+      - 59
+      - {speed_limit: 0}
+    - - 67
+      - 15
+      - {is_bidirectional: false, speed_limit: 0}
+    - - 57
+      - 54
+      - {is_bidirectional: false, speed_limit: 0}
+    - - 54
+      - 49
+      - {is_bidirectional: false, speed_limit: 0}
+    - - 49
+      - 35
+      - {is_bidirectional: false, speed_limit: 0}
+    - - 68
+      - 69
+      - {speed_limit: 0}
+    - - 69
+      - 68
+      - {speed_limit: 0}
+    - - 70
+      - 71
+      - {speed_limit: 0}
+    - - 71
+      - 70
+      - {speed_limit: 0}
+    - - 72
+      - 73
+      - {speed_limit: 0}
+    - - 73
+      - 72
+      - {speed_limit: 0}
+    - - 74
+      - 75
+      - {speed_limit: 0}
+    - - 75
+      - 74
+      - {speed_limit: 0}
+    - - 76
+      - 77
+      - {speed_limit: 0}
+    - - 77
+      - 76
+      - {speed_limit: 0}
+    - - 78
+      - 79
+      - {speed_limit: 0}
+    - - 79
+      - 78
+      - {speed_limit: 0}
+    - - 80
+      - 81
+      - {speed_limit: 0}
+    - - 81
+      - 80
+      - {speed_limit: 0}
+    - - 82
+      - 83
+      - {speed_limit: 0}
+    - - 83
+      - 82
+      - {speed_limit: 0}
+    - - 84
+      - 85
+      - {speed_limit: 0}
+    - - 85
+      - 84
+      - {speed_limit: 0}
+    - - 86
+      - 87
+      - {speed_limit: 0}
+    - - 87
+      - 86
+      - {speed_limit: 0}
+    - - 60
+      - 73
+      - {is_bidirectional: false, speed_limit: 0}
+    - - 73
+      - 67
+      - {is_bidirectional: false, speed_limit: 0}
+    - - 61
+      - 75
+      - {speed_limit: 0}
+    - - 75
+      - 61
+      - {speed_limit: 0}
+    - - 75
+      - 60
+      - {speed_limit: 0}
+    - - 60
+      - 75
+      - {speed_limit: 0}
+    - - 58
+      - 77
+      - {speed_limit: 0}
+    - - 77
+      - 58
+      - {speed_limit: 0}
+    - - 77
+      - 59
+      - {speed_limit: 0}
+    - - 59
+      - 77
+      - {speed_limit: 0}
+    - - 67
+      - 71
+      - {speed_limit: 0}
+    - - 71
+      - 67
+      - {speed_limit: 0}
+    - - 71
+      - 20
+      - {speed_limit: 0}
+    - - 20
+      - 71
+      - {speed_limit: 0}
+    - - 52
+      - 69
+      - {speed_limit: 0}
+    - - 69
+      - 52
+      - {speed_limit: 0}
+    - - 69
+      - 59
+      - {speed_limit: 0}
+    - - 59
+      - 69
+      - {speed_limit: 0}
+    - - 52
+      - 83
+      - {speed_limit: 0}
+    - - 83
+      - 52
+      - {speed_limit: 0}
+    - - 83
+      - 51
+      - {speed_limit: 0}
+    - - 51
+      - 83
+      - {speed_limit: 0}
+    - - 49
+      - 81
+      - {speed_limit: 0}
+    - - 81
+      - 49
+      - {speed_limit: 0}
+    - - 81
+      - 50
+      - {speed_limit: 0}
+    - - 50
+      - 81
+      - {speed_limit: 0}
+    - - 58
+      - 79
+      - {speed_limit: 0}
+    - - 79
+      - 58
+      - {speed_limit: 0}
+    - - 79
+      - 61
+      - {speed_limit: 0}
+    - - 61
+      - 79
+      - {speed_limit: 0}
+    - - 62
+      - 85
+      - {speed_limit: 0}
+    - - 85
+      - 62
+      - {speed_limit: 0}
+    - - 85
+      - 65
+      - {speed_limit: 0}
+    - - 65
+      - 85
+      - {speed_limit: 0}
+    - - 56
+      - 87
+      - {speed_limit: 0}
+    - - 87
+      - 56
+      - {speed_limit: 0}
+    - - 87
+      - 57
+      - {speed_limit: 0}
+    - - 57
+      - 87
+      - {speed_limit: 0}
+    vertices:
+    - - 21.0
+      - -0.5
+      - {name: Obrabiarka4}
+    - - 21.0
+      - -2.0
+      - {name: ''}
+    - - 23.5
+      - -2.0
+      - {name: ''}
+    - - 23.5
+      - -3.5
+      - {name: ''}
+    - - 25.0
+      - -3.5
+      - {name: MagazynWej1}
+    - - 23.5
+      - -5.3500000000000005
+      - {name: ''}
+    - - 25.0
+      - -5.3500000000000005
+      - {name: MagazynWej2}
+    - - 23.5
+      - -7.75
+      - {name: ''}
+    - - 25.0
+      - -7.75
+      - {name: MagazynWej3}
+    - - 23.5
+      - -10.100000000000001
+      - {name: ''}
+    - - 25.0
+      - -10.100000000000001
+      - {name: MagazynWej4}
+    - - 23.5
+      - -12.5
+      - {name: ''}
+    - - 25.0
+      - -12.5
+      - {name: MagazynWej5}
+    - - 23.5
+      - -14.850000000000001
+      - {name: ''}
+    - - 25.0
+      - -14.850000000000001
+      - {name: MagazynWej6}
+    - - 23.5
+      - -17.25
+      - {name: ''}
+    - - 25.0
+      - -17.25
+      - {name: MagazynWej7}
+    - - 23.5
+      - -19.6
+      - {name: ''}
+    - - 25.0
+      - -19.6
+      - {name: MagazynWej8}
+    - - 23.5
+      - -22.5
+      - {name: ''}
+    - - 21.0
+      - -22.5
+      - {name: ''}
+    - - 21.0
+      - -23.5
+      - {name: Obrabiarka5}
+    - - 17.0
+      - -22.5
+      - {name: ''}
+    - - 17.0
+      - -23.5
+      - {name: Obrabiarka6}
+    - - 13.0
+      - -22.5
+      - {name: ''}
+    - - 13.0
+      - -23.5
+      - {name: Obrabiarka7}
+    - - 9.0
+      - -22.5
+      - {name: ''}
+    - - 9.0
+      - -23.5
+      - {name: Obrabiarka8}
+    - - 5.0
+      - -22.5
+      - {name: ''}
+    - - 5.0
+      - -23.5
+      - {name: Obrabiarka9}
+    - - 2.5
+      - -22.5
+      - {name: ''}
+    - - 2.5
+      - -17.25
+      - {name: ''}
+    - - 1.0
+      - -17.25
+      - {name: MagazynWyj4}
+    - - 2.5
+      - -12.5
+      - {name: ''}
+    - - 1.0
+      - -12.5
+      - {name: MagazynWyj3}
+    - - 2.5
+      - -7.75
+      - {name: ''}
+    - - 1.0
+      - -7.75
+      - {name: MagazynWyj2}
+    - - 2.5
+      - -3.5
+      - {name: ''}
+    - - 1.0
+      - -3.5
+      - {name: MagazynWyj1}
+    - - 2.5
+      - -2.0
+      - {name: ''}
+    - - 5.0
+      - -2.0
+      - {name: ''}
+    - - 5.0
+      - -0.5
+      - {name: Obrabiarka0}
+    - - 9.0
+      - -2.0
+      - {name: ''}
+    - - 9.0
+      - -0.5
+      - {name: Obrabiarka1}
+    - - 13.0
+      - -2.0
+      - {name: ''}
+    - - 13.0
+      - -0.5
+      - {name: Obrabiarka2}
+    - - 17.0
+      - -2.0
+      - {name: ''}
+    - - 17.0
+      - -0.5
+      - {name: Obrabiarka3}
+    - - 5.0
+      - -3.5
+      - {name: ''}
+    - - 5.0
+      - -7.75
+      - {name: ''}
+    - - 5.0
+      - -12.5
+      - {name: ''}
+    - - 5.0
+      - -17.25
+      - {name: ''}
+    - - 9.0
+      - -17.25
+      - {name: ''}
+    - - 9.0
+      - -12.5
+      - {name: ''}
+    - - 9.0
+      - -7.75
+      - {name: ''}
+    - - 9.0
+      - -3.5
+      - {name: ''}
+    - - 13.0
+      - -3.5
+      - {name: ''}
+    - - 13.0
+      - -7.75
+      - {name: ''}
+    - - 13.0
+      - -12.5
+      - {name: ''}
+    - - 13.0
+      - -17.25
+      - {name: ''}
+    - - 17.0
+      - -17.25
+      - {name: ''}
+    - - 17.0
+      - -12.5
+      - {name: ''}
+    - - 17.0
+      - -7.75
+      - {name: ''}
+    - - 17.0
+      - -3.5
+      - {name: ''}
+    - - 21.0
+      - -3.5
+      - {name: ''}
+    - - 21.0
+      - -7.75
+      - {name: ''}
+    - - 21.0
+      - -12.5
+      - {name: ''}
+    - - 21.0
+      - -17.25
+      - {name: ''}
+    - - 11.0
+      - -18.75
+      - {is_charger: true, is_parking_spot: true, name: TinyRobot9_Spawn, spawn_robot_name: TinyRobot9,
+        spawn_robot_type: TinyRobot}
+    - - 11.0
+      - -17.25
+      - {name: ''}
+    - - 19.5
+      - -19.625
+      - {is_charger: true, is_parking_spot: true, name: TinyRobot10_Spawn, spawn_robot_name: TinyRobot10,
+        spawn_robot_type: TinyRobot}
+    - - 21.0
+      - -19.625
+      - {name: ''}
+    - - 19.0
+      - -15.75
+      - {is_charger: true, is_parking_spot: true, name: TinyRobot1_Spawn, spawn_robot_name: TinyRobot1,
+        spawn_robot_type: TinyRobot}
+    - - 19.0
+      - -17.25
+      - {name: ''}
+    - - 15.5
+      - -14.850000000000001
+      - {is_charger: true, is_parking_spot: true, name: TinyRobot2_Spawn, spawn_robot_name: TinyRobot2,
+        spawn_robot_type: TinyRobot}
+    - - 17.0
+      - -14.850000000000001
+      - {name: ''}
+    - - 14.5
+      - -14.850000000000001
+      - {is_charger: true, is_parking_spot: true, name: TinyRobot3_Spawn, spawn_robot_name: TinyRobot3,
+        spawn_robot_type: TinyRobot}
+    - - 13.0
+      - -14.850000000000001
+      - {name: ''}
+    - - 15.0
+      - -11.0
+      - {is_charger: true, is_parking_spot: true, name: TinyRobot4_Spawn, spawn_robot_name: TinyRobot4,
+        spawn_robot_type: TinyRobot}
+    - - 15.0
+      - -12.5
+      - {name: ''}
+    - - 6.5
+      - -10.125
+      - {is_charger: true, is_parking_spot: true, name: TinyRobot7_Spawn, spawn_robot_name: TinyRobot7,
+        spawn_robot_type: TinyRobot}
+    - - 5.0
+      - -10.125
+      - {name: ''}
+    - - 7.0
+      - -15.75
+      - {is_charger: true, is_parking_spot: true, name: TinyRobot8_Spawn, spawn_robot_name: TinyRobot8,
+        spawn_robot_type: TinyRobot}
+    - - 7.0
+      - -17.25
+      - {name: ''}
+    - - 19.0
+      - -6.25
+      - {is_charger: true, is_parking_spot: true, name: TinyRobot6_Spawn, spawn_robot_name: TinyRobot6,
+        spawn_robot_type: TinyRobot}
+    - - 19.0
+      - -7.75
+      - {name: ''}
+    - - 14.5
+      - -5.625
+      - {is_charger: true, is_parking_spot: true, name: TinyRobot5_Spawn, spawn_robot_name: TinyRobot5,
+        spawn_robot_type: TinyRobot}
+    - - 13.0
+      - -5.625
+      - {name: ''}
